@@ -1,5 +1,5 @@
 MINI PROJECT 8
-"ELECTRICITY BILL PREDICTION USING MLFLOW
+"ELECTRICITY BILL PREDICTION USING MLFLOW"
 PROJECT OVER VIEW:
      This project predicts electricity bills using machine learning algorithms and tracks model experiments using MLflow.
      It compares three regression models to identify the best-performing model.
